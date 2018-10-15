@@ -12,7 +12,7 @@
 <body>
   <div class="container">
     <div class="jumbotron text-center">
-      <h1>We are here for a Great Taste, Even Better Memories </h1>
+      <h1> ICE CREAM ALL DAY </h1>
     </div>
   </div>
 
