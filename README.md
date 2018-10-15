@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>
-   Ice Cream All Day
+ <title> Ice Cream All Day
   </title>
 
   <!-- Get Bootstrap from here: http://getbootstrap.com/getting-started/ -->
