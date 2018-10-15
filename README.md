@@ -1,8 +1,8 @@
-PE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>
-    Boostrap Demo
+   Ice Cream All Day
   </title>
 
   <!-- Get Bootstrap from here: http://getbootstrap.com/getting-started/ -->
@@ -13,15 +13,15 @@ PE html>
 <body>
   <div class="container">
     <div class="jumbotron text-center">
-      <h1>Introducing Bootstrap</h1>
+      <h1>We are here for a Great Taste, Even Better Memories </h1>
     </div>
   </div>
 
   <div class="container">
     <div class="row">
       <div class="col-sm-4">
-        <h1>Column One</h1>
-        Nunc ultrices, sapien non pretium blandit, arcu lacus sollicitudin dolor, eget ullamcorper ligula risus eget enim. Ut rutrum auctor mi a laoreet. Sed at fermentum erat. Vestibulum sit amet fringilla tortor, quis viverra risus. In pulvinar felis eu dui elementum varius. Aliquam accumsan risus quam, a consectetur est porta eget. Pellentesque rutrum neque dolor, ut egestas enim faucibus eu. In hac habitasse platea dictumst. Quisque non ante mollis, aliquet lacus a, elementum tellus. Aenean euismod urna venenatis ultricies ornare. Mauris auctor semper ante, in semper metus eleifend ac.
+        <h1>Only The Best Ice Cream Here</h1>
+        Our ice cream only includes the finest ingredients. It is made from our original family recipe that has been passed down for years. 
       </div>
       <div class="col-sm-4">
         <h1>Column Two</h1>
