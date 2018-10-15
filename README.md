@@ -25,9 +25,9 @@
         <h1>Only The Best Ice Cream Here </h1>
        Our ice cream only includes the finest ingredients. It is made from our original family recipe that has been passed down for years.       </div>
       <div class="col-sm-4">
-        <h1>Column Three</h1>
-        Nunc ultrices, sapien non pretium blandit, arcu lacus sollicitudin dolor, eget ullamcorper ligula risus eget enim. Ut rutrum auctor mi a laoreet. Sed at fermentum erat. Vestibulum sit amet fringilla tortor, quis viverra risus. In pulvinar felis eu dui elementum varius. Aliquam accumsan risus quam, a consectetur est porta eget. Pellentesque rutrum neque dolor, ut egestas enim faucibus eu. In hac habitasse platea dictumst. Quisque non ante mollis, aliquet lacus a, elementum tellus. Aenean euismod urna venenatis ultricies ornare. Mauris auctor semper ante, in semper metus eleifend ac.
-      </div>
+        <h1>Pricing Includes </h1>
+       Single Scoop $3 ,Double Scoop $5, Triple Scoop $7, Ice Cream Sundae $6
+   </div>
     </div>
   </div>
 
